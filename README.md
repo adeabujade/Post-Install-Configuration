@@ -23,9 +23,9 @@ Windows 10</b> (21H2)
 
 **2.Create a new role:**
 
-  a.Role Name: Supreme Admin.
+    a.Role Name: Supreme Admin.
   
-  b.Permissions: Assign all necessary administrative permissions.
+    b.Permissions: Assign all necessary administrative permissions.
   
 **Step 2: Configure Departments (Control Ticket Visibility)**
 
@@ -33,11 +33,11 @@ Windows 10</b> (21H2)
 
 **2.Create the following departments:**
 
-  -SysAdmins
+    a.SysAdmins
   
-  -Help Desk
+    b.Help Desk
   
-  -Networking
+    c.Networking
   
 **Step 3: Configure Teams (Combine Agents Across Departments)**
 
@@ -45,9 +45,9 @@ Windows 10</b> (21H2)
 
 **2.Create a team:**
 
-  -Team Name: Online Banking.
+    a.Team Name: Online Banking.
   
-  -Assign Agents: Pull agents from different departments as needed.
+    b.Assign Agents: Pull agents from different departments as needed.
   
 **Step 4: Configure User Access to Tickets**
 
@@ -55,9 +55,9 @@ Windows 10</b> (21H2)
 
 **2.Configure ticket creation permissions:**
 
-  -UNCHECK: "Unregistered users can create tickets."
+    a.UNCHECK: "Unregistered users can create tickets."
   
-  -Enable: Require user registration and login to create tickets.
+    b.Enable: Require user registration and login to create tickets.
   
 **Step 5: Configure Agents (Workers)**
 
@@ -65,9 +65,9 @@ Windows 10</b> (21H2)
 
 **2.Add the following agents:**
 
-  -Jane: Assign to the SysAdmins department.
+    a.Jane: Assign to the SysAdmins department.
   
-  -John: Assign to the Support department.
+    b.John: Assign to the Support department.
   
 **Step 6: Configure Users (Customers)**
 
@@ -75,9 +75,9 @@ Windows 10</b> (21H2)
 
 **2.Add the following users:**
 
-  -Karen  
+    a.Karen  
   
-  -Ken
+    b.Ken
   
 **Step 7: Configure SLA (Service Level Agreements)**
 
@@ -85,11 +85,11 @@ Windows 10</b> (21H2)
 
 **2.Create the following SLAs:**
 
-  a.Sev-A: Grace Period: 1 hour, Schedule: 24/7.
+    a.Sev-A: Grace Period: 1 hour, Schedule: 24/7.
   
-  b.Sev-B: Grace Period: 4 hours, Schedule: 24/7.
+    b.Sev-B: Grace Period: 4 hours, Schedule: 24/7.
   
-  c.Sev-C: Grace Period: 8 hours, Schedule: Business Hours.
+    c.Sev-C: Grace Period: 8 hours, Schedule: Business Hours.
   
 **Step 8: Configure Help Topics**
 
@@ -97,13 +97,13 @@ Windows 10</b> (21H2)
 
 **2.Add the following help topics for ticket creation:**
 
-  -Business Critical Outage
+  a.Business Critical Outage
   
-  -Personal Computer Issues
+  b.Personal Computer Issues
   
-  -Equipment Request
+  c.Equipment Request
   
-  -Password Reset
+  d.Password Reset
   
-  -Other
+  e.Other
 
