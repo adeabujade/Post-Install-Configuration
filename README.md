@@ -19,9 +19,9 @@ Windows 10</b> (21H2)
 
 **Step 1: Configure Roles (Group Permissions)**
 
-1.Navigate to the Admin Panel -> Agents -> Roles.
+**1.Navigate to the Admin Panel -> Agents -> Roles.**
 
-2.Create a new role:
+**2.Create a new role:**
 
   a.Role Name: Supreme Admin.
   
@@ -29,9 +29,9 @@ Windows 10</b> (21H2)
   
 **Step 2: Configure Departments (Control Ticket Visibility)**
 
-1.Navigate to the Admin Panel -> Agents -> Departments.
+**1.Navigate to the Admin Panel -> Agents -> Departments.**
 
-2.Create the following departments:
+**2.Create the following departments:**
 
   -SysAdmins
   
@@ -41,9 +41,9 @@ Windows 10</b> (21H2)
   
 **Step 3: Configure Teams (Combine Agents Across Departments)**
 
-1.Go to the Admin Panel -> Agents -> Teams.
+**1.Go to the Admin Panel -> Agents -> Teams.**
 
-2.Create a team:
+**2.Create a team:**
 
   -Team Name: Online Banking.
   
@@ -51,9 +51,9 @@ Windows 10</b> (21H2)
   
 **Step 4: Configure User Access to Tickets**
 
-1.Go to the Admin Panel -> Settings -> User Settings.
+**1.Go to the Admin Panel -> Settings -> User Settings.**
 
-2.Configure ticket creation permissions:
+**2.Configure ticket creation permissions:**
 
   -UNCHECK: "Unregistered users can create tickets."
   
@@ -61,9 +61,9 @@ Windows 10</b> (21H2)
   
 **Step 5: Configure Agents (Workers)**
 
-1.Navigate to the Admin Panel -> Agents -> Add New.
+**1.Navigate to the Admin Panel -> Agents -> Add New.**
 
-2.Add the following agents:
+**2.Add the following agents:**
 
   -Jane: Assign to the SysAdmins department.
   
@@ -71,9 +71,9 @@ Windows 10</b> (21H2)
   
 **Step 6: Configure Users (Customers)**
 
-1.Go to the Agent Panel -> Users -> Add New.
+**1.Go to the Agent Panel -> Users -> Add New.**
 
-2.Add the following users:
+**2.Add the following users:**
 
   -Karen  
   
@@ -81,9 +81,9 @@ Windows 10</b> (21H2)
   
 **Step 7: Configure SLA (Service Level Agreements)**
 
-1.Navigate to the Admin Panel -> Manage -> SLA.
+**1.Navigate to the Admin Panel -> Manage -> SLA.**
 
-2.Create the following SLAs:
+**2.Create the following SLAs:**
 
   a.Sev-A: Grace Period: 1 hour, Schedule: 24/7.
   
@@ -93,9 +93,9 @@ Windows 10</b> (21H2)
   
 **Step 8: Configure Help Topics**
 
-1.Go to the Admin Panel -> Manage -> Help Topics.
+**1.Go to the Admin Panel -> Manage -> Help Topics.**
 
-2.Add the following help topics for ticket creation:
+**2.Add the following help topics for ticket creation:**
 
   -Business Critical Outage
   
