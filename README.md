@@ -97,13 +97,13 @@ Windows 10</b> (21H2)
 
 **2.Add the following help topics for ticket creation:**
 
-  a.Business Critical Outage
+      a.Business Critical Outage
   
-  b.Personal Computer Issues
+      b.Personal Computer Issues
   
-  c.Equipment Request
+      c.Equipment Request
   
-  d.Password Reset
-  
-  e.Other
+      d.Password Reset
+      
+      e.Other
 
