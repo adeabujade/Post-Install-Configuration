@@ -37,8 +37,6 @@ Windows 10</b> (21H2)
 **2.Create the following departments:**
 
     a.SysAdmins
-    
-        -Select Support as Parent
 
 ![image](https://github.com/user-attachments/assets/77e50c32-00f9-4897-9802-a5c8abaee390)
 
