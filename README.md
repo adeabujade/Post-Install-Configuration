@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Project Overview</h1>
+<h1>osTicket - Post-Install Configuration</h1>
 Showcase the ability to set up and configure a help desk ticketing system with roles, departments, teams, users, SLAs, and help topics.<br />
 
 <h2>Environments and Technologies Used</h2>
